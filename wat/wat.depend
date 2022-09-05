@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612428531 source:c:\users\uzivatel\desktop\plocha\škola\programování\wat\main.c
+	<stdio.h>
+	<stdlib.h>
+

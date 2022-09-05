@@ -1,0 +1,4 @@
+Navrhnìte algoritmus a graficky jej znázornìte pomocí strukturogramu, 
+který vytiskne následující obrázek. 
+V jednu chvíli mùžete  tisknout pouze jeden znak. tzn. použít pouze Tisk "*" nebo Tisk "0". 
+Øešení typu Tisk " * * * * * * * 0" apod neuznávám.

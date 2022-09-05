@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613034044 source:c:\users\uzivatel\desktop\plocha\škola\programování\formatovanyvstup\main.c
+	<stdio.h>
+	<stdlib.h>
+
